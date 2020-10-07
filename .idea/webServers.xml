@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="28b47d6f-50d5-4b7c-bda3-c0970e02ad31" name="SP" url="http://stevenporotto.com/">
+        <fileTransfer rootFolder="/stevenporotto.com" accessType="SFTP" host="access801797105.webspace-data.io" port="22" sshConfigId="99cb093f-d712-4d64-82b7-72ca73d925fe" sshConfig="u98853398@access801797105.webspace-data.io:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
